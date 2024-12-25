@@ -4,7 +4,7 @@ former random person in the world
 - ahk 2.0/1.1
   
 speak allat such as
-freedom (english)
-portuguese
-spanish
-japanese
+- freedom (english)
+- portuguese
+- spanish
+- japanese
