@@ -1,7 +1,10 @@
-Hi im ViniPotato and im the creator of Potato Bot!
-I can post codes of phyton on my profile!
-
-📌 Languages ive already learned
-- Phyton
-- Lua
-- (trying) Java
+former random person in the world
+- python
+- lua
+- ahk 2.0/1.1
+  
+speak allat such as
+freedom (english)
+portuguese
+spanish
+japanese
